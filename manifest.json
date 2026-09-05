@@ -1,0 +1,41 @@
+{
+  "asset_id": "ASSET-LIGHT-a34b06ea4abb",
+  "created_at_utc": "2026-09-05T19:21:46.730100+00:00",
+  "ownership": "OWNER_OWNED",
+  "transferable": true,
+  "portfolio_candidate": true,
+  "blueprint_id": "TEXT_DIFF_UTILITY",
+  "generation": 1,
+  "type": "DIFF_TOOL",
+  "name": "Text Diff Utility",
+  "topic": "Text Diff Utility",
+  "status": "HYPOTHESIS",
+  "product_spec": {
+    "core_action": "compare two text versions and expose meaningful changes",
+    "repeat_reason": "documents and generated outputs repeatedly change",
+    "paid_extension": "history, saved projects, larger files, API access"
+  },
+  "monetization_hypothesis": "history, saved projects, larger files, API access",
+  "mission_fit": {
+    "owned_asset": true,
+    "requires_employment": false,
+    "requires_manual_service": false,
+    "affiliate_only": false,
+    "zero_spend_build": true,
+    "local_llm": false
+  },
+  "evidence": {
+    "real_users": 0,
+    "verified_revenue_rub": 0,
+    "strong_external_evidence": false
+  },
+  "growth": {
+    "acquisition_attempts": 0
+  },
+  "built_at_utc": "2026-09-05T19:21:46.882738+00:00",
+  "asset_path": "assets/light/ASSET-LIGHT-a34b06ea4abb",
+  "artifact_type": "OWNED_DIGITAL_ASSET_MVP",
+  "local_llm": false,
+  "spend_rub": 0,
+  "reusable": true
+}
